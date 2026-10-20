@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ataboada-coops.github.io/sitemap.xml

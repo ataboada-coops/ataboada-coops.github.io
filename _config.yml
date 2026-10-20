@@ -1,0 +1,6 @@
+title: 资源导航
+baseurl: ""
+url: "https://ataboada-coops.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
